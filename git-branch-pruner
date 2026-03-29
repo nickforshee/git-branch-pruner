@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Simple wrapper script for git branch cleanup
+# This can be added to your PATH or used as an alias
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+"$SCRIPT_DIR/branch-pruner.sh" "$@" 
