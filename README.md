@@ -6,12 +6,12 @@ A collection of useful git scripts and utilities for developers. Currently inclu
 
 ### Option 1: One-liner install (Recommended)
 ```bash
-curl -sSL https://raw.githubusercontent.com/Nick-Forshee-Ascent/git-branch-pruner/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/nickforshee/git-branch-pruner/main/install.sh | bash
 ```
 
 ### Option 2: Manual install
 ```bash
-git clone https://github.com/Nick-Forshee-Ascent/git-branch-pruner.git
+git clone https://github.com/nickforshee/git-branch-pruner.git
 cd git-branch-pruner
 chmod +x install.sh
 ./install.sh
