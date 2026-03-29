@@ -156,7 +156,7 @@ git pull origin main
 Or re-run the installer:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/Nick-Forshee-Ascent/git-branch-pruner/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/nickforshee/git-branch-pruner/main/install.sh | bash
 ```
 
 ---
