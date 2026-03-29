@@ -61,7 +61,7 @@ setup_source_files() {
         cd "$TEMP_DIR"
         
         # Clone the repository
-        git clone https://github.com/Nick-Forshee-Ascent/git-branch-pruner.git
+        git clone https://github.com/nickforshee/git-branch-pruner.git
         cd git-branch-pruner
         
         # Update SCRIPT_DIR to point to the cloned directory
